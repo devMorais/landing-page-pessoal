@@ -25,7 +25,7 @@ header .conteudo .menu-lateral {
     left: calc(-100vw - 100px);
     top: 0px;
     width: calc(100vw - 100px);
-    height: 100vw;
+    height: 150vw;
     display: inline-flex;
     justify-content: flex-start;
     flex-direction: column;
